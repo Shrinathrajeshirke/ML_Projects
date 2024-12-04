@@ -56,4 +56,4 @@ if __name__=="__main__":
 
     ModelTrainer=ModelTrainer()
     ModelTrainer.intiate_model_trainer(train_arr,test_arr)
-    print(ModelTrainer.intiate_model_trainer(train_arr,test_arr))
+    print(ModelTrainer.intiate_model_trainer(train_arr,test_arr))  
